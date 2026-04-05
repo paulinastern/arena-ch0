@@ -1,0 +1,8 @@
+OFFICEQA_FIXTURE_TABLE
+Synthetic Treasury-style snippet for offline pipeline tests (not an official Bulletin).
+
+Category | 1951 | 1952
+Federal receipts | 4125 | 4450
+Outlays | 5000 | 5200
+
+Units: millions of dollars.

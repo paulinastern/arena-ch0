@@ -1,8 +1,26 @@
 node_modules/
 .env
+.env.*
 dist/
 build/
 .venv/
 env/
 venv/
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local run artifacts (keep directory placeholder)
+runs/*
+!runs/.gitkeep
